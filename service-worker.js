@@ -5,8 +5,8 @@ self.addEventListener('install', event => {
                 './',
                 './index.html',
                 './manifest.json',
-                './manager-192.png',
-                './manager-512.png',
+                './js/Manager-192.png',
+                './Manager-512.png',
                 './js/index.js'
             ]);
         })
